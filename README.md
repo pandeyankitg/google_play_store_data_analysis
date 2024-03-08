@@ -43,13 +43,13 @@ The objective of this project is to explore and analyze the Google Play Store ap
 
 Google Play Store is renowned as one of the largest and most popular Android app stores worldwide. With its extensive collection of apps and a wealth of data, it presents an optimal opportunity for creating effective models and identifying trends and future challenges.
 
-In this EDA project, we utilized two raw datasets from Kaggle: one containing Play Store attributes and the other consisting of user reviews. The first dataset encompasses 13 different attributes, while the second dataset provides five additional features for data manipulation and analysis.
+In this EDA project, I have utilized two raw datasets from Kaggle: one containing Play Store attributes and the other consisting of user reviews. The first dataset encompasses 13 different attributes, while the second dataset provides five additional features for data manipulation and analysis.
 
-To ensure data integrity, we began by performing crucial data cleaning steps. This involved removing duplicate entries and dropping non-essential null values. However, due to a large number of null values in the rating column (1645), dropping them entirely would have adversely affected our final results. Therefore, we replaced these null values with the mode of ratings.
+To ensure data integrity, I began by performing crucial data cleaning steps. This involved removing duplicate entries and dropping non-essential null values. However, due to a large number of null values in the rating column (1645), dropping them entirely would have adversely affected our final results. Therefore, we replaced these null values with the mode of ratings.
 
-After cleaning the data, we conducted exploratory data analysis to gain a comprehensive understanding of our dataset. This involved various analyses, such as examining the number of installations for each category and exploring the correlation between app size, Android version, and the number of installs.
+After cleaning the data, I have conducted exploratory data analysis to gain a comprehensive understanding of our dataset. This involved various analyses, such as examining the number of installations for each category and exploring the correlation between app size, Android version, and the number of installs.
 
-Furthermore, we merged both dataframes to discover correlations between the columns of the two datasets, which yielded fascinating results.
+Furthermore, I merged both dataframes to discover correlations between the columns of the two datasets, which yielded fascinating results.
 
 Key insights and conclusions drawn from our analysis include:
 Positive correlation between reviews and installs, while price and rating exhibit negative correlation.
@@ -70,7 +70,7 @@ Positive correlation between reviews and installs, while price and rating exhibi
 - Developing free apps with a content rating suitable for everyone is beneficial.
 - The dataset holds immense potential for improving business value and making a positive impact. - - It extends beyond the specific problem addressed in this project, with numerous other interesting possibilities waiting to be explored through further analysis.
 
-By successfully achieving our project objectives and answering our research questions, we have obtained valuable insights into the Google Play Store apps ecosystem and the trends within.
+By successfully achieving My project objectives and answering research questions, I have obtained valuable insights into the Google Play Store apps ecosystem and the trends within.
 
 
 
